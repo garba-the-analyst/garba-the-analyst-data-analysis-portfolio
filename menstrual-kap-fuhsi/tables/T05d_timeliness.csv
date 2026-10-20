@@ -1,0 +1,8 @@
+value,n,pct,variable
+Did not seek,149,58.0,time_to_seek_help
+More than a month,43,16.7,time_to_seek_help
+Within a week,23,8.9,time_to_seek_help
+Immediately,23,8.9,time_to_seek_help
+Within a month,19,7.4,time_to_seek_help
+Never sought help,149,58.0,ever_sought_professional_help
+Sought professional help,108,42.0,ever_sought_professional_help

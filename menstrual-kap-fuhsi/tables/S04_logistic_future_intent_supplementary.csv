@@ -1,0 +1,8 @@
+model,predictor,OR,CI_low,CI_high,p,note
+"future help-seeking intent, n=376",know_score,1.22,1.06,1.41,0.0047,supplementary
+"future help-seeking intent, n=376",att_score,0.99,0.91,1.08,0.8527,supplementary
+"future help-seeking intent, n=376",hbm_barrier,0.79,0.55,1.14,0.2084,supplementary
+"future help-seeking intent, n=376",age_21_24,1.65,0.73,3.72,0.2296,supplementary
+"future help-seeking intent, n=376",age_25plus,1.2,0.14,10.29,0.8683,supplementary
+"future help-seeking intent, n=376",level_per100,0.59,0.43,0.82,0.0018,supplementary
+"future help-seeking intent, n=376",const,7.33,0.17,316.16,0.2995,supplementary

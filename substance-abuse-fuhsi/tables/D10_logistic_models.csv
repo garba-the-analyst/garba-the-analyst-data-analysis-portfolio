@@ -1,0 +1,49 @@
+model,term,aOR,ci_lo,ci_hi,p,sig05
+M1: Ever use (binary logistic),const,0.081,0.015,0.432,0.0032,Yes
+M1: Ever use (binary logistic),sex_c_Male,12.876,5.068,32.71,0.0,Yes
+M1: Ever use (binary logistic),level_c2_300/400,0.568,0.241,1.342,0.1975,No
+M1: Ever use (binary logistic),faculty_c_Basic Medical Sciences,2.832,1.024,7.83,0.0448,Yes
+M1: Ever use (binary logistic),faculty_c_Clinical Sciences,0.895,0.152,5.257,0.9019,No
+M1: Ever use (binary logistic),faculty_c_Faculty of Sciences,15.88,5.803,43.459,0.0,Yes
+M1: Ever use (binary logistic),living_c_With both parents,1.123,0.384,3.286,0.8325,No
+M1: Ever use (binary logistic),living_c_With friends/roommates,0.34,0.106,1.089,0.0693,No
+M1: Ever use (binary logistic),living_c_With one parent,0.0,0.0,inf,0.9996,No
+M1: Ever use (binary logistic),living_c_With other relatives,2.103,0.547,8.087,0.2795,No
+M1: Ever use (binary logistic),allowance_c2_Low (<₦40k),0.039,0.01,0.15,0.0,Yes
+M1: Ever use (binary logistic),allowance_c2_Medium,0.389,0.158,0.96,0.0404,Yes
+M2: Past 3mo use,const,0.165,0.028,0.988,0.0485,Yes
+M2: Past 3mo use,sex_c_Male,6.719,2.621,17.223,0.0001,Yes
+M2: Past 3mo use,level_c2_300/400,0.584,0.203,1.679,0.3183,No
+M2: Past 3mo use,faculty_c_Basic Medical Sciences,2.447,0.845,7.081,0.0989,No
+M2: Past 3mo use,faculty_c_Clinical Sciences,0.0,0.0,inf,0.9996,No
+M2: Past 3mo use,faculty_c_Faculty of Sciences,1.794,0.644,4.999,0.2636,No
+M2: Past 3mo use,living_c_With both parents,0.642,0.218,1.888,0.4203,No
+M2: Past 3mo use,living_c_With friends/roommates,0.128,0.032,0.509,0.0035,Yes
+M2: Past 3mo use,living_c_With one parent,0.0,0.0,inf,0.9997,No
+M2: Past 3mo use,living_c_With other relatives,0.669,0.162,2.773,0.5799,No
+M2: Past 3mo use,allowance_c2_Low (<₦40k),0.123,0.03,0.51,0.0039,Yes
+M2: Past 3mo use,allowance_c2_Medium,0.735,0.265,2.035,0.5534,No
+M3: Problem use (CAGE-type),const,0.037,0.004,0.373,0.0051,Yes
+M3: Problem use (CAGE-type),sex_c_Male,1.551,0.558,4.316,0.4003,No
+M3: Problem use (CAGE-type),level_c2_300/400,2.949,0.646,13.458,0.1627,No
+M3: Problem use (CAGE-type),faculty_c_Basic Medical Sciences,4.225,1.31,13.631,0.0159,Yes
+M3: Problem use (CAGE-type),faculty_c_Clinical Sciences,1.149,0.2,6.601,0.876,No
+M3: Problem use (CAGE-type),faculty_c_Faculty of Sciences,0.673,0.123,3.67,0.6472,No
+M3: Problem use (CAGE-type),living_c_With both parents,0.934,0.262,3.328,0.916,No
+M3: Problem use (CAGE-type),living_c_With friends/roommates,1.156,0.308,4.345,0.83,No
+M3: Problem use (CAGE-type),living_c_With one parent,0.0,0.0,inf,0.9996,No
+M3: Problem use (CAGE-type),living_c_With other relatives,0.0,0.0,inf,0.9996,No
+M3: Problem use (CAGE-type),allowance_c2_Low (<₦40k),0.302,0.091,1.004,0.0507,No
+M3: Problem use (CAGE-type),allowance_c2_Medium,0.161,0.045,0.57,0.0046,Yes
+M4: Any substance past 3mo,const,0.124,0.022,0.71,0.019,Yes
+M4: Any substance past 3mo,sex_c_Male,6.955,2.753,17.572,0.0,Yes
+M4: Any substance past 3mo,level_c2_300/400,0.578,0.213,1.571,0.2828,No
+M4: Any substance past 3mo,faculty_c_Basic Medical Sciences,3.264,1.173,9.079,0.0234,Yes
+M4: Any substance past 3mo,faculty_c_Clinical Sciences,0.0,0.0,inf,0.9996,No
+M4: Any substance past 3mo,faculty_c_Faculty of Sciences,2.573,0.935,7.087,0.0674,No
+M4: Any substance past 3mo,living_c_With both parents,0.593,0.202,1.739,0.341,No
+M4: Any substance past 3mo,living_c_With friends/roommates,0.108,0.029,0.408,0.001,Yes
+M4: Any substance past 3mo,living_c_With one parent,0.0,0.0,inf,0.9996,No
+M4: Any substance past 3mo,living_c_With other relatives,0.83,0.206,3.342,0.7935,No
+M4: Any substance past 3mo,allowance_c2_Low (<₦40k),0.117,0.028,0.481,0.0029,Yes
+M4: Any substance past 3mo,allowance_c2_Medium,0.667,0.241,1.845,0.4355,No

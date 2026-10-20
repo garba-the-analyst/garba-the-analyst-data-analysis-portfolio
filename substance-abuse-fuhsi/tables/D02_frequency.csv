@@ -1,0 +1,5 @@
+category,n,pct,ci95_lo,ci95_hi,variable
+0 (Never/Not applicable/Not stated),347,87.8,84.3,90.7,frequency
+1 (Less than once a week),33,8.4,6.0,11.5,frequency
+2 (1–2 times per week),8,2.0,1.0,3.9,frequency
+3 (3–6 times per week),7,1.8,0.9,3.6,frequency

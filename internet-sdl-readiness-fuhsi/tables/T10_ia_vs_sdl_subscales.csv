@@ -1,0 +1,25 @@
+IA,SDL,spearman_r,p
+Frequency,Self Mgmt,-0.021,0.6861
+Frequency,Desire,-0.07,0.1757
+Frequency,Self Ctrl,0.17,0.0009
+Frequency,Total,0.058,0.2563
+Means,Self Mgmt,0.048,0.3513
+Means,Desire,0.104,0.0432
+Means,Self Ctrl,0.095,0.0637
+Means,Total,0.081,0.1175
+Reliability,Self Mgmt,0.112,0.0292
+Reliability,Desire,0.135,0.0086
+Reliability,Self Ctrl,0.128,0.0126
+Reliability,Total,0.151,0.0031
+Hours,Self Mgmt,0.096,0.0624
+Hours,Desire,0.087,0.0904
+Hours,Self Ctrl,0.101,0.0501
+Hours,Total,0.121,0.0183
+Device,Self Mgmt,-0.009,0.8607
+Device,Desire,0.077,0.1334
+Device,Self Ctrl,-0.02,0.6923
+Device,Total,0.004,0.9432
+Composite,Self Mgmt,0.084,0.1016
+Composite,Desire,0.083,0.1053
+Composite,Self Ctrl,0.178,0.0005
+Composite,Total,0.163,0.0015

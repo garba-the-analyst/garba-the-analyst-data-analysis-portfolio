@@ -1,0 +1,19 @@
+level,category,n,pct
+100 Level,Easy,38,50.0
+100 Level,Difficult,17,22.4
+100 Level,Neutral,10,13.2
+100 Level,Very Difficult,7,9.2
+100 Level,Very Easy,4,5.3
+200 Level,Easy,28,58.3
+200 Level,Neutral,6,12.5
+200 Level,Difficult,6,12.5
+200 Level,Very Difficult,5,10.4
+200 Level,Very Easy,3,6.2
+300 Level,Easy,36,44.4
+300 Level,Neutral,20,24.7
+300 Level,Very Easy,16,19.8
+300 Level,Difficult,9,11.1
+400 Level,Easy,60,51.7
+400 Level,Neutral,40,34.5
+400 Level,Difficult,11,9.5
+400 Level,Very Easy,5,4.3

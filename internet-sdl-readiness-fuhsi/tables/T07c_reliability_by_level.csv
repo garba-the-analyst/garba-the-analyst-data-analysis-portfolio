@@ -1,0 +1,15 @@
+level,reliability,n,pct
+100 level,Fairly reliable (occasional interruptions),50,74.6
+100 level,Very reliable (connects consistently without interruption),13,19.4
+100 level,Unreliable (frequent disconnections),2,3.0
+100 level,Very unreliable (rarely connects when needed),2,3.0
+200 level,Fairly reliable (occasional interruptions),49,72.1
+200 level,Very reliable (connects consistently without interruption),10,14.7
+200 level,Very unreliable (rarely connects when needed),9,13.2
+300 level,Fairly reliable (occasional interruptions),54,60.7
+300 level,Very reliable (connects consistently without interruption),17,19.1
+300 level,Unreliable (frequent disconnections),15,16.9
+300 level,Very unreliable (rarely connects when needed),3,3.4
+400 level,Fairly reliable (occasional interruptions),93,60.0
+400 level,Very reliable (connects consistently without interruption),47,30.3
+400 level,Unreliable (frequent disconnections),15,9.7

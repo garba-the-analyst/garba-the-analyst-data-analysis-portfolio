@@ -1,0 +1,29 @@
+comparison,test,chi2,dof,p,cramers_v,validity,n,sig05,outcome,group
+ever_use_c x sex_c,Chi-square,40.742,1,0.0,0.321,OK,395,Yes,ever_use_c,sex_c
+ever_use_c x level_c,Chi-square,31.879,3,0.0,0.284,OK,395,Yes,ever_use_c,level_c
+ever_use_c x faculty_c,Chi-square,40.624,3,0.0,0.321,WARN: expected<5,395,Yes,ever_use_c,faculty_c
+ever_use_c x religion_c,Chi-square,26.707,2,0.0,0.26,WARN: expected<5,395,Yes,ever_use_c,religion_c
+ever_use_c x living_c,Chi-square,8.238,4,0.0833,0.144,WARN: expected<5,395,No,ever_use_c,living_c
+ever_use_c x allowance_c,Chi-square,44.8,4,0.0,0.337,WARN: expected<5,395,Yes,ever_use_c,allowance_c
+ever_use_c x age_c,Chi-square,6.257,3,0.0997,0.126,WARN: expected<5,395,No,ever_use_c,age_c
+past_3mo_c x sex_c,Chi-square,26.009,2,0.0,0.257,OK,395,Yes,past_3mo_c,sex_c
+past_3mo_c x level_c,Chi-square,30.66,6,0.0,0.197,WARN: expected<5,395,Yes,past_3mo_c,level_c
+past_3mo_c x faculty_c,Chi-square,22.663,6,0.0009,0.169,WARN: expected<5,395,Yes,past_3mo_c,faculty_c
+past_3mo_c x religion_c,Chi-square,63.082,4,0.0,0.283,WARN: expected<5,395,Yes,past_3mo_c,religion_c
+past_3mo_c x living_c,Chi-square,28.123,8,0.0005,0.189,WARN: expected<5,395,Yes,past_3mo_c,living_c
+past_3mo_c x allowance_c,Chi-square,55.498,8,0.0,0.265,WARN: expected<5,395,Yes,past_3mo_c,allowance_c
+past_3mo_c x age_c,Chi-square,17.806,6,0.0067,0.15,WARN: expected<5,395,Yes,past_3mo_c,age_c
+problem_use x sex_c,Chi-square,0.489,1,0.4843,0.035,OK,395,No,problem_use,sex_c
+problem_use x level_c,Chi-square,3.888,3,0.2738,0.099,WARN: expected<5,395,No,problem_use,level_c
+problem_use x faculty_c,Chi-square,9.875,3,0.0197,0.158,WARN: expected<5,395,Yes,problem_use,faculty_c
+problem_use x religion_c,Chi-square,86.031,2,0.0,0.467,WARN: expected<5,395,Yes,problem_use,religion_c
+problem_use x living_c,Chi-square,5.069,4,0.2803,0.113,WARN: expected<5,395,No,problem_use,living_c
+problem_use x allowance_c,Chi-square,22.778,4,0.0001,0.24,WARN: expected<5,395,Yes,problem_use,allowance_c
+problem_use x age_c,Chi-square,3.277,3,0.3508,0.091,WARN: expected<5,395,No,problem_use,age_c
+any_substance_3mo x sex_c,Chi-square,16.848,1,0.0,0.207,OK,395,Yes,any_substance_3mo,sex_c
+any_substance_3mo x level_c,Chi-square,17.933,3,0.0005,0.213,WARN: expected<5,395,Yes,any_substance_3mo,level_c
+any_substance_3mo x faculty_c,Chi-square,7.274,3,0.0637,0.136,WARN: expected<5,395,No,any_substance_3mo,faculty_c
+any_substance_3mo x religion_c,Chi-square,49.574,2,0.0,0.354,WARN: expected<5,395,Yes,any_substance_3mo,religion_c
+any_substance_3mo x living_c,Chi-square,10.901,4,0.0277,0.166,WARN: expected<5,395,Yes,any_substance_3mo,living_c
+any_substance_3mo x allowance_c,Chi-square,37.576,4,0.0,0.308,WARN: expected<5,395,Yes,any_substance_3mo,allowance_c
+any_substance_3mo x age_c,Chi-square,9.07,3,0.0284,0.152,WARN: expected<5,395,Yes,any_substance_3mo,age_c

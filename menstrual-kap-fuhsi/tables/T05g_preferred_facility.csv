@@ -1,0 +1,8 @@
+category,n,pct,variable
+Private clinic,182,48.4,preferred_facility
+General/teaching hospital,149,39.6,preferred_facility
+Campus/school health center,34,9.0,preferred_facility
+Pharmacy/patent medicine store,6,1.6,preferred_facility
+Not stated,2,0.5,preferred_facility
+Traditional healer,2,0.5,preferred_facility
+Other,1,0.3,preferred_facility

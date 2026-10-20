@@ -1,0 +1,19 @@
+level,satisfaction,n,pct
+100 level,Very satisfied,5,7.5
+100 level,Satisfied,17,25.4
+100 level,Neutral,45,67.2
+200 level,Very satisfied,6,8.8
+200 level,Satisfied,11,16.2
+200 level,Neutral,33,48.5
+200 level,Dissatisfied,14,20.6
+200 level,Very dissatisfied,4,5.9
+300 level,Very satisfied,9,10.1
+300 level,Satisfied,10,11.2
+300 level,Neutral,57,64.0
+300 level,Dissatisfied,10,11.2
+300 level,Very dissatisfied,3,3.4
+400 level,Very satisfied,28,18.1
+400 level,Satisfied,41,26.5
+400 level,Neutral,59,38.1
+400 level,Dissatisfied,23,14.8
+400 level,Very dissatisfied,4,2.6

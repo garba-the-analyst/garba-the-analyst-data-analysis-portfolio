@@ -1,0 +1,29 @@
+section,category,n,pct
+Age Group,16 – 20 years,197,61.4
+Age Group,21 – 25 years,105,32.7
+Age Group,26 – 30 years,19,5.9
+Gender,Male,149,46.4
+Gender,Female,172,53.6
+Academic Level,100 Level,76,23.7
+Academic Level,200 Level,48,15.0
+Academic Level,300 Level,81,25.2
+Academic Level,400 Level,116,36.1
+Residence,University Hostel (on-campus),37,11.5
+Residence,Off-campus Hostel/Lodge,272,84.7
+Residence,Living with Family/Guardian,12,3.7
+Faculty Group,Allied Health,145,45.2
+Faculty Group,Basic Medical,139,43.3
+Faculty Group,Clinical,26,8.1
+Faculty Group,Other,11,3.4
+Department,Nursing,92,28.7
+Department,MLS,31,9.7
+Department,Pharmacology,31,9.7
+Department,Microbiology,30,9.3
+Department,Audiology,27,8.4
+Department,Human Nutrition & Dietetics,26,8.1
+Department,MBBS,26,8.1
+Department,Information Technology & Health,24,7.5
+Department,Biochemistry,23,7.2
+Department,Physiology,7,2.2
+Department,Medic Laboratory Science,3,0.9
+Department,Biological Science,1,0.3

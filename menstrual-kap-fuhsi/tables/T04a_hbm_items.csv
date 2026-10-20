@@ -1,0 +1,15 @@
+item,statement,hbm_domain,SA_n,SA_pct,A_n,A_pct,U_n,U_pct,D_n,D_pct,SD_n,SD_pct,mean_1to5
+E1,I believe I am at risk of developing menstrual irregularities.,susceptibility,141,37.5,111,29.5,56,14.9,47,12.5,21,5.6,3.81
+E2,Menstrual irregularities are common among students like me.,susceptibility,188,50.0,125,33.2,35,9.3,18,4.8,10,2.7,4.23
+E3,Menstrual irregularities can seriously affect my health if left untreated.,severity,218,58.0,109,29.0,34,9.0,8,2.1,7,1.9,4.39
+E4,Untreated menstrual irregularities can lead to infertility.,severity,221,58.8,90,23.9,57,15.2,5,1.3,3,0.8,4.39
+E5,Seeking medical care for menstrual irregularities can help detect problems early.,benefit,301,80.1,69,18.4,5,1.3,0,0.0,1,0.3,4.78
+E6,Regular check-ups can help me manage my menstrual health better.,benefit,288,76.6,81,21.5,7,1.9,0,0.0,0,0.0,4.75
+E7,I feel embarrassed discussing menstrual problems with a healthcare provider.,barrier,41,10.9,52,13.8,49,13.0,182,48.4,52,13.8,2.6
+E8,The cost of healthcare discourages me from seeking help for menstrual problems.,barrier,123,32.7,69,18.4,49,13.0,99,26.3,36,9.6,3.38
+E9,Lack of time prevents me from seeking care for menstrual irregularities.,barrier,86,22.9,72,19.1,46,12.2,142,37.8,30,8.0,3.11
+E10,Cultural or religious beliefs make it difficult to talk openly about menstrual irregularities.,barrier,91,24.2,50,13.3,33,8.8,138,36.7,64,17.0,2.91
+E11,Advice from friends or family influences my decision to seek care for menstrual problems.,cues,96,25.5,99,26.3,38,10.1,110,29.3,33,8.8,3.31
+E12,Health talks or campaigns in school encourage me to seek care for menstrual issues.,cues,225,59.8,128,34.0,16,4.3,6,1.6,1,0.3,4.52
+E13,I am confident I can identify signs of menstrual irregularity in myself.,self_efficacy,233,62.0,94,25.0,31,8.2,13,3.5,5,1.3,4.43
+E14,I am confident I can seek appropriate care when I notice a menstrual irregularity.,self_efficacy,242,64.4,90,23.9,34,9.0,8,2.1,2,0.5,4.49

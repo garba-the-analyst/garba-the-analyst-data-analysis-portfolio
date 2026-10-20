@@ -1,0 +1,14 @@
+factor,label,n,SA_n,A_n,U_n,D_n,SD_n,SA_pct,A_pct,SA_A_pct
+Factor 1,Peer pressure,395,278,109,3,5,0,70.4,27.6,98.0
+Factor 2,Academic stress,395,190,163,25,15,2,48.1,41.3,89.4
+Factor 3,Curiosity/experimentation,395,162,188,42,3,0,41.0,47.6,88.6
+Factor 4,Easy availability,395,156,184,44,9,2,39.5,46.6,86.1
+Factor 5,Family member use,395,114,213,41,21,6,28.9,53.9,82.8
+Factor 6,Social media exposure,395,118,212,51,12,2,29.9,53.7,83.5
+Factor 7,Emotional distress,395,165,207,18,3,2,41.8,52.4,94.2
+Factor 8,Coping with pain/stress/sleep,395,178,195,22,0,0,45.1,49.4,94.4
+Factor 9,Social gatherings/parties,395,126,205,48,14,2,31.9,51.9,83.8
+Factor 10,Low self-esteem,395,142,156,80,17,0,35.9,39.5,75.4
+Factor 11,Limited parental monitoring,395,186,188,10,9,2,47.1,47.6,94.7
+Factor 12,Boredom/unstructured time,395,124,166,72,31,2,31.4,42.0,73.4
+Factor 13,Inadequate policy enforcement,395,104,217,41,31,2,26.3,54.9,81.3

@@ -1,0 +1,27 @@
+item,category,n,pct
+Device ownership,Yes,377,99.5
+Device ownership,No,2,0.5
+Frequency of access,Daily,250,66.0
+Frequency of access,Several times a week,113,29.8
+Frequency of access,Once a week,3,0.8
+Frequency of access,Rarely,9,2.4
+Frequency of access,Never,4,1.1
+Primary means of access,Personal mobile data,354,93.4
+Primary means of access,Campus Wi-Fi or internet facility,19,5.0
+Primary means of access,Shared data from another person,4,1.1
+Primary means of access,Cybercafe,2,0.5
+Connection reliability,Very reliable (connects consistently without interruption),87,23.0
+Connection reliability,Fairly reliable (occasional interruptions),246,64.9
+Connection reliability,Unreliable (frequent disconnections),32,8.4
+Connection reliability,Very unreliable (rarely connects when needed),14,3.7
+Hours per day (academic),More than 4 hours,79,20.8
+Hours per day (academic),3 to 4 hours,110,29.0
+Hours per day (academic),1 to 2 hours,133,35.1
+Hours per day (academic),Less than 1 hour,57,15.0
+Satisfaction with access,Very satisfied,48,12.7
+Satisfaction with access,Satisfied,79,20.8
+Satisfaction with access,Neutral,194,51.2
+Satisfaction with access,Dissatisfied,47,12.4
+Satisfaction with access,Very dissatisfied,11,2.9
+IA Composite Score,Mean ± SD,4.39 ± 0.42,
+IA Composite Score,Median (IQR),4.40 (4.20-4.60),

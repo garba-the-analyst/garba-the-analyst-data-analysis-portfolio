@@ -1,0 +1,16 @@
+comparison,groups,variable,test,stat,p
+By level,level_c,know_score,Kruskal-Wallis,33.721,0.0
+By age group,age_grp,know_score,Kruskal-Wallis,3.102,0.212
+By dept-group,dept_group,know_score,Kruskal-Wallis,52.713,0.0
+No vs Yes,exp_c,know_score,Mann-Whitney,18269.5,0.0012
+By future intent,future_c,know_score,Kruskal-Wallis,12.446,0.002
+By level,level_c,att_score,Kruskal-Wallis,4.935,0.1766
+By age group,age_grp,att_score,Kruskal-Wallis,4.839,0.089
+By dept-group,dept_group,att_score,Kruskal-Wallis,0.082,0.774
+No vs Yes,exp_c,att_score,Mann-Whitney,13230.5,0.0349
+By future intent,future_c,att_score,Kruskal-Wallis,0.516,0.7726
+By level,level_c,hbm_barrier,Kruskal-Wallis,34.855,0.0
+By age group,age_grp,hbm_barrier,Kruskal-Wallis,10.601,0.005
+By dept-group,dept_group,hbm_barrier,Kruskal-Wallis,0.957,0.328
+No vs Yes,exp_c,hbm_barrier,Mann-Whitney,15994.5,0.4718
+By future intent,future_c,hbm_barrier,Kruskal-Wallis,2.013,0.3654

@@ -1,0 +1,36 @@
+variable,category,n,pct
+Age (years),Mean ± SD,20.4 ± 2.2,
+Age (years),Median (IQR),20.0 (19.0-22.0),
+Sex,Male,186,49.1
+Sex,Female,193,50.9
+Academic Level,100 level,67,17.7
+Academic Level,200 level,68,17.9
+Academic Level,300 level,89,23.5
+Academic Level,400 level,155,40.9
+Department,Nursing,124,32.7
+Department,MBBS,44,11.6
+Department,Physiotherapy,32,8.4
+Department,Pharmacology,23,6.1
+Department,Audiology,21,5.5
+Department,Medical Laboratory Science,17,4.5
+Department,Biochemistry,14,3.7
+Department,Ith,14,3.7
+Department,Medicine And Surgery,13,3.4
+Department,Human Nutrition And Dietetics,12,3.2
+Department,Mls,10,2.6
+Department,Microbiology,9,2.4
+Department,Prosthetics And Orthotics,7,1.8
+Department,Medical Science,6,1.6
+Department,Medicine,4,1.1
+Department,Ecp,3,0.8
+Department,Human Nutrition Dietetics,3,0.8
+Department,Bmb,3,0.8
+Department,Medical Laboratory Scienc,3,0.8
+Department,Prosthetic And Orthotics,3,0.8
+Department,Biology,2,0.5
+Department,Bch,2,0.5
+Department,Biotechnology And Molecular Biology,2,0.5
+Department,Environmental And Health Science,2,0.5
+Department,Bio Molecular Biology,2,0.5
+Department,Met And Mat Engineering,2,0.5
+Department,Engineering,2,0.5

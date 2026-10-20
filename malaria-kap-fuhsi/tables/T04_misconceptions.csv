@@ -1,0 +1,9 @@
+item,statement,SA_n,SA_pct,A_n,A_pct,N_n,N_pct,D_n,D_pct,SD_n,SD_pct,mean_1to5
+M1,"Malaria is caused by exposure to too much sunlight or heat, and not by mosquito bites.",0,0.0,8,2.5,27,8.4,132,41.1,154,48.0,4.35
+M2,Eating excess oily or fatty food causes malaria.,0,0.0,3,0.9,26,8.1,141,43.9,151,47.0,4.37
+M3,Malaria can be transmitted from one person to another through touch.,0,0.0,8,2.5,21,6.5,140,43.6,152,47.4,4.36
+M4,A single episode of malaria gives a person lifelong immunity against future infections.,8,2.5,3,0.9,27,8.4,137,42.7,146,45.5,4.28
+M5,"Herbal concoctions alone are sufficient to cure malaria, without the need for orthodox treatment.",0,0.0,9,2.8,23,7.2,146,45.5,143,44.5,4.32
+M6,Mosquito nets are only necessary during the rainy season.,11,3.4,3,0.9,34,10.6,126,39.3,147,45.8,4.23
+M7,"Taking antimalarial drugs regularly, even without symptoms, is a safe way to prevent malaria.",4,1.2,8,2.5,24,7.5,141,43.9,144,44.9,4.29
+M8,Malaria is a spiritual affliction that cannot be prevented through physical protective measures.,0,0.0,8,2.5,21,6.5,133,41.4,159,49.5,4.38

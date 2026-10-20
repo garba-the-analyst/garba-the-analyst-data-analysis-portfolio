@@ -1,0 +1,106 @@
+score,group,test,stat,p,sig05
+factor_score,sex_c,Mann-Whitney U,19771.0,0.6846,No
+factor_score,level_c,Kruskal-Wallis,6.86,0.0767,No
+factor_score,faculty_c,Kruskal-Wallis,10.19,0.017,Yes
+factor_score,religion_c,Kruskal-Wallis,8.77,0.0125,Yes
+factor_score,living_c,Kruskal-Wallis,14.5,0.0059,Yes
+factor_score,allowance_c,Kruskal-Wallis,9.13,0.0579,No
+factor_score,age_c,Kruskal-Wallis,10.98,0.0118,Yes
+factor_peer_social,sex_c,Mann-Whitney U,20136.0,0.4582,No
+factor_peer_social,level_c,Kruskal-Wallis,13.1,0.0044,Yes
+factor_peer_social,faculty_c,Kruskal-Wallis,3.7,0.2956,No
+factor_peer_social,religion_c,Kruskal-Wallis,2.83,0.2435,No
+factor_peer_social,living_c,Kruskal-Wallis,13.46,0.0092,Yes
+factor_peer_social,allowance_c,Kruskal-Wallis,8.0,0.0914,No
+factor_peer_social,age_c,Kruskal-Wallis,10.01,0.0185,Yes
+factor_academic,sex_c,Mann-Whitney U,21723.5,0.0183,Yes
+factor_academic,level_c,Kruskal-Wallis,5.04,0.1689,No
+factor_academic,faculty_c,Kruskal-Wallis,31.93,0.0,Yes
+factor_academic,religion_c,Kruskal-Wallis,10.96,0.0042,Yes
+factor_academic,living_c,Kruskal-Wallis,8.54,0.0736,No
+factor_academic,allowance_c,Kruskal-Wallis,2.13,0.7123,No
+factor_academic,age_c,Kruskal-Wallis,24.91,0.0,Yes
+factor_emotional,sex_c,Mann-Whitney U,20532.5,0.2497,No
+factor_emotional,level_c,Kruskal-Wallis,11.98,0.0074,Yes
+factor_emotional,faculty_c,Kruskal-Wallis,6.04,0.1097,No
+factor_emotional,religion_c,Kruskal-Wallis,7.41,0.0246,Yes
+factor_emotional,living_c,Kruskal-Wallis,6.02,0.1975,No
+factor_emotional,allowance_c,Kruskal-Wallis,9.18,0.0568,No
+factor_emotional,age_c,Kruskal-Wallis,27.34,0.0,Yes
+factor_availability,sex_c,Mann-Whitney U,18344.0,0.3481,No
+factor_availability,level_c,Kruskal-Wallis,26.69,0.0,Yes
+factor_availability,faculty_c,Kruskal-Wallis,28.38,0.0,Yes
+factor_availability,religion_c,Kruskal-Wallis,7.79,0.0204,Yes
+factor_availability,living_c,Kruskal-Wallis,26.31,0.0,Yes
+factor_availability,allowance_c,Kruskal-Wallis,3.86,0.4254,No
+factor_availability,age_c,Kruskal-Wallis,0.45,0.9296,No
+factor_family,sex_c,Mann-Whitney U,18212.0,0.3091,No
+factor_family,level_c,Kruskal-Wallis,14.29,0.0025,Yes
+factor_family,faculty_c,Kruskal-Wallis,3.0,0.3917,No
+factor_family,religion_c,Kruskal-Wallis,13.99,0.0009,Yes
+factor_family,living_c,Kruskal-Wallis,7.76,0.1009,No
+factor_family,allowance_c,Kruskal-Wallis,10.76,0.0293,Yes
+factor_family,age_c,Kruskal-Wallis,3.07,0.3811,No
+factor_social_media,sex_c,Mann-Whitney U,18839.0,0.6426,No
+factor_social_media,level_c,Kruskal-Wallis,1.2,0.7538,No
+factor_social_media,faculty_c,Kruskal-Wallis,3.77,0.2878,No
+factor_social_media,religion_c,Kruskal-Wallis,9.2,0.0101,Yes
+factor_social_media,living_c,Kruskal-Wallis,21.7,0.0002,Yes
+factor_social_media,allowance_c,Kruskal-Wallis,9.5,0.0497,Yes
+factor_social_media,age_c,Kruskal-Wallis,14.29,0.0025,Yes
+factor_boredom,sex_c,Mann-Whitney U,18232.5,0.3101,No
+factor_boredom,level_c,Kruskal-Wallis,10.64,0.0138,Yes
+factor_boredom,faculty_c,Kruskal-Wallis,16.0,0.0011,Yes
+factor_boredom,religion_c,Kruskal-Wallis,12.5,0.0019,Yes
+factor_boredom,living_c,Kruskal-Wallis,14.07,0.0071,Yes
+factor_boredom,allowance_c,Kruskal-Wallis,16.83,0.0021,Yes
+factor_boredom,age_c,Kruskal-Wallis,9.7,0.0213,Yes
+factor_policy,sex_c,Mann-Whitney U,20495.0,0.2462,No
+factor_policy,level_c,Kruskal-Wallis,6.44,0.0921,No
+factor_policy,faculty_c,Kruskal-Wallis,7.94,0.0473,Yes
+factor_policy,religion_c,Kruskal-Wallis,0.37,0.8291,No
+factor_policy,living_c,Kruskal-Wallis,36.79,0.0,Yes
+factor_policy,allowance_c,Kruskal-Wallis,4.03,0.4018,No
+factor_policy,age_c,Kruskal-Wallis,3.22,0.3584,No
+health_score,sex_c,Mann-Whitney U,18304.5,0.3668,No
+health_score,level_c,Kruskal-Wallis,10.71,0.0134,Yes
+health_score,faculty_c,Kruskal-Wallis,19.13,0.0003,Yes
+health_score,religion_c,Kruskal-Wallis,3.62,0.1636,No
+health_score,living_c,Kruskal-Wallis,16.38,0.0025,Yes
+health_score,allowance_c,Kruskal-Wallis,22.22,0.0002,Yes
+health_score,age_c,Kruskal-Wallis,2.18,0.5357,No
+health_physical,sex_c,Mann-Whitney U,18894.5,0.7028,No
+health_physical,level_c,Kruskal-Wallis,21.48,0.0001,Yes
+health_physical,faculty_c,Kruskal-Wallis,17.73,0.0005,Yes
+health_physical,religion_c,Kruskal-Wallis,9.09,0.0106,Yes
+health_physical,living_c,Kruskal-Wallis,10.22,0.0369,Yes
+health_physical,allowance_c,Kruskal-Wallis,21.72,0.0002,Yes
+health_physical,age_c,Kruskal-Wallis,2.96,0.3983,No
+health_psychological,sex_c,Mann-Whitney U,17687.0,0.1325,No
+health_psychological,level_c,Kruskal-Wallis,6.54,0.0883,No
+health_psychological,faculty_c,Kruskal-Wallis,8.3,0.0403,Yes
+health_psychological,religion_c,Kruskal-Wallis,6.25,0.0438,Yes
+health_psychological,living_c,Kruskal-Wallis,12.32,0.0151,Yes
+health_psychological,allowance_c,Kruskal-Wallis,33.68,0.0,Yes
+health_psychological,age_c,Kruskal-Wallis,4.09,0.252,No
+health_social,sex_c,Mann-Whitney U,19455.5,0.8938,No
+health_social,level_c,Kruskal-Wallis,11.46,0.0095,Yes
+health_social,faculty_c,Kruskal-Wallis,23.72,0.0,Yes
+health_social,religion_c,Kruskal-Wallis,0.16,0.9224,No
+health_social,living_c,Kruskal-Wallis,9.5,0.0497,Yes
+health_social,allowance_c,Kruskal-Wallis,12.75,0.0126,Yes
+health_social,age_c,Kruskal-Wallis,1.79,0.6177,No
+health_academic,sex_c,Mann-Whitney U,18171.0,0.2763,No
+health_academic,level_c,Kruskal-Wallis,10.05,0.0182,Yes
+health_academic,faculty_c,Kruskal-Wallis,16.33,0.001,Yes
+health_academic,religion_c,Kruskal-Wallis,7.17,0.0278,Yes
+health_academic,living_c,Kruskal-Wallis,26.05,0.0,Yes
+health_academic,allowance_c,Kruskal-Wallis,12.49,0.0141,Yes
+health_academic,age_c,Kruskal-Wallis,9.84,0.02,Yes
+prev_score,sex_c,Mann-Whitney U,18882.0,0.6986,No
+prev_score,level_c,Kruskal-Wallis,26.72,0.0,Yes
+prev_score,faculty_c,Kruskal-Wallis,7.1,0.0689,No
+prev_score,religion_c,Kruskal-Wallis,1.99,0.37,No
+prev_score,living_c,Kruskal-Wallis,28.06,0.0,Yes
+prev_score,allowance_c,Kruskal-Wallis,14.58,0.0057,Yes
+prev_score,age_c,Kruskal-Wallis,0.45,0.9287,No

@@ -1,0 +1,7 @@
+subscale,items,mean,sd,median,cronbach_alpha
+susceptibility,2,4.02,0.99,4.0,0.75
+severity,2,4.39,0.77,5.0,0.76
+benefit,2,4.76,0.43,5.0,0.75
+barrier,4,3.0,0.99,3.0,0.71
+cues,2,3.91,0.83,4.0,0.32
+self_efficacy,2,4.46,0.74,5.0,0.73

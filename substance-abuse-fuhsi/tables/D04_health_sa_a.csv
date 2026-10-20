@@ -1,0 +1,13 @@
+health,label,n,SA_n,A_n,SA_A_pct
+Health 1,Dependence/addiction,395,248,147,100.0
+Health 2,Cardiovascular problems,395,212,182,99.7
+Health 3,Respiratory problems,395,227,165,99.2
+Health 4,Anxiety/depression/mental health,395,222,167,98.5
+Health 5,Sleep disturbances,395,186,198,97.2
+Health 6,Impaired concentration/memory,395,201,191,99.2
+Health 7,Impaired judgement/decision-making,395,191,196,98.0
+Health 8,Risky sexual behaviour,395,171,204,94.9
+Health 9,Accidents/injuries,395,205,188,99.5
+Health 10,Long-term organ damage,395,219,176,100.0
+Health 11,Relationship problems,395,186,201,98.0
+Health 12,Academic performance,395,207,175,96.7

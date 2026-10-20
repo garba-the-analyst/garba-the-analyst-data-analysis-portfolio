@@ -1,0 +1,7 @@
+comparison,U,p_raw,p_bonf,significant
+100 level vs 200 level,2194.5,0.7086,1.0,No
+100 level vs 300 level,3502.0,0.061,0.3662,No
+100 level vs 400 level,6183.0,0.0239,0.1432,No
+200 level vs 300 level,3575.5,0.0505,0.303,No
+200 level vs 400 level,6598.5,0.0027,0.0162,Yes
+300 level vs 400 level,7316.5,0.4301,1.0,No

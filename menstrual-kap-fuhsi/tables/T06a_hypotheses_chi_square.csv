@@ -1,0 +1,7 @@
+test,variables,n,chi2,dof,p,cramers_v,min_expected,note,table_flat
+H1 primary (3-cat),know_cat_mean x future_c,376,8.581,2,0.0137,0.151,1.85,some_cells_expected<5,Good|No:4; Good|Not sure:19; Good|Yes:237; Poor|No:2; Poor|Not sure:20; Poor|Yes:94
+H1 primary (binary),know2 x future2,376,6.865,1,0.0088,0.135,13.88,valid,Good|Not sure / No:23; Good|Yes:237; Poor|Not sure / No:22; Poor|Yes:94
+H1 secondary,know_cat_mean x sought_ever,257,1.834,1,0.1756,0.084,37.4,valid,Good|Never sought help:103; Good|Sought professional help:65; Poor|Never sought help:46; Poor|Sought professional help:43
+H2 primary (3-cat),att_cat_mean x future_c,376,2.197,2,0.3334,0.076,2.84,some_cells_expected<5,Negative|No:4; Negative|Not sure:15; Negative|Yes:159; Positive|No:2; Positive|Not sure:24; Positive|Yes:172
+H2 primary (binary),att2 x future2,376,0.329,1,0.5661,0.03,21.3,valid,Negative|Not sure / No:19; Negative|Yes:159; Positive|Not sure / No:26; Positive|Yes:172
+H2 secondary,att_cat_mean x sought_ever,257,0.047,1,0.8275,0.014,46.65,valid,Negative|Never sought help:63; Negative|Sought professional help:48; Positive|Never sought help:86; Positive|Sought professional help:60

@@ -1,0 +1,22 @@
+variable,test,H,df,p,comparison,U,p_raw,p_bonf
+Knowledge,Kruskal-Wallis (Level),25.307,3.0,0.0,,,,
+Knowledge,Mann-Whitney (Level),,,,100 Level vs 200 Level,1562.0,0.1677,1.0
+Knowledge,Mann-Whitney (Level),,,,100 Level vs 300 Level,2038.0,0.0001,0.0007
+Knowledge,Mann-Whitney (Level),,,,100 Level vs 400 Level,2935.0,0.0,0.0002
+Knowledge,Mann-Whitney (Level),,,,200 Level vs 300 Level,1435.5,0.0082,0.0494
+Knowledge,Mann-Whitney (Level),,,,200 Level vs 400 Level,2051.5,0.0046,0.0273
+Knowledge,Mann-Whitney (Level),,,,300 Level vs 400 Level,4734.5,0.9198,1.0
+Practice,Kruskal-Wallis (Level),50.94,3.0,0.0,,,,
+Practice,Mann-Whitney (Level),,,,100 Level vs 200 Level,2125.0,0.1184,0.7102
+Practice,Mann-Whitney (Level),,,,100 Level vs 300 Level,2006.0,0.0001,0.0008
+Practice,Mann-Whitney (Level),,,,100 Level vs 400 Level,2597.5,0.0,0.0
+Practice,Mann-Whitney (Level),,,,200 Level vs 300 Level,935.0,0.0,0.0
+Practice,Mann-Whitney (Level),,,,200 Level vs 400 Level,1110.5,0.0,0.0
+Practice,Mann-Whitney (Level),,,,300 Level vs 400 Level,4416.0,0.4732,1.0
+Misconceptions,Kruskal-Wallis (Level),11.37,3.0,0.0099,,,,
+Misconceptions,Mann-Whitney (Level),,,,100 Level vs 200 Level,2238.5,0.0223,0.1336
+Misconceptions,Mann-Whitney (Level),,,,100 Level vs 300 Level,3109.0,0.908,1.0
+Misconceptions,Mann-Whitney (Level),,,,100 Level vs 400 Level,5146.5,0.0343,0.2057
+Misconceptions,Mann-Whitney (Level),,,,200 Level vs 300 Level,1458.0,0.0131,0.0789
+Misconceptions,Mann-Whitney (Level),,,,200 Level vs 400 Level,2589.5,0.4541,1.0
+Misconceptions,Mann-Whitney (Level),,,,300 Level vs 400 Level,5635.0,0.0117,0.07

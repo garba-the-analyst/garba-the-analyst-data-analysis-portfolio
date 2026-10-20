@@ -1,0 +1,13 @@
+health,label,mean,sd,median,n
+Health 1,Dependence/addiction,4.63,0.48,5.0,395
+Health 2,Cardiovascular problems,4.53,0.51,5.0,395
+Health 3,Respiratory problems,4.57,0.51,5.0,395
+Health 4,Anxiety/depression/mental health,4.55,0.53,5.0,395
+Health 5,Sleep disturbances,4.44,0.55,4.0,395
+Health 6,Impaired concentration/memory,4.5,0.52,5.0,395
+Health 7,Impaired judgement/decision-making,4.46,0.57,4.0,395
+Health 8,Risky sexual behaviour,4.38,0.58,4.0,395
+Health 9,Accidents/injuries,4.51,0.51,5.0,395
+Health 10,Long-term organ damage,4.55,0.5,5.0,395
+Health 11,Relationship problems,4.45,0.54,4.0,395
+Health 12,Academic performance,4.49,0.56,5.0,395

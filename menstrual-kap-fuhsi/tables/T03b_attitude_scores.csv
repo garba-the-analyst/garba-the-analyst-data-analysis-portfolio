@@ -1,0 +1,4 @@
+summary,mean,sd,median,min,max,Positive,Negative
+Attitude score (10-50),40.39,4.09,41.0,26.0,50.0,,
+Mean split (>= 40.39) Positive n/376,,,,,,198.0,178.0
+Median split (>= 41.0) Positive n/376,,,,,,198.0,178.0

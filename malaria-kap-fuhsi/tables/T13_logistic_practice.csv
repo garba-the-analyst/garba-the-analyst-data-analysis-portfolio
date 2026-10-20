@@ -1,0 +1,6 @@
+predictor,OR,CI_low,CI_high,p
+know_score,1.38,1.14,1.69,0.0012
+level_num,1.0,1.0,1.01,0.0
+mis_score,0.99,0.94,1.03,0.5503
+male,0.99,0.61,1.63,0.9809
+const,0.02,0.0,0.22,0.0011

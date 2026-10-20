@@ -1,0 +1,11 @@
+item,statement,correct_n,correct_pct,incorrect_n,incorrect_pct
+K1,A protozoan parasite (Plasmodium) transmitted by mosquitoes,270,84.1,51,15.9
+K2,Anopheles mosquito,266,82.9,55,17.1
+K3,The bite of an infected female Anopheles mosquito,290,90.3,31,9.7
+K4,"Fever, chills, and headache",321,100.0,0,0.0
+K5,Sleeping under an insecticide-treated net (ITN),315,98.1,6,1.9
+K6,Indoor residual spraying (IRS),321,100.0,0,0.0
+K7,It eliminates stagnant water and bushes where mosquitoes breed,263,81.9,58,18.1
+K8,Seek prompt testing and treatment at a health facility,243,75.7,78,24.3
+K9,A person can be repeatedly infected with malaria; a single episode does not confer lasting immunity,299,93.1,22,6.9
+K10,"Re-treated or replaced periodically as recommended, and washed gently only when necessary",231,72.0,90,28.0

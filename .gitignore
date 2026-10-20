@@ -1,0 +1,17 @@
+# Data confidentiality — never commit respondent-level data
+data/
+*.csv.gz
+*Responses*.csv
+*Responses*.xlsx
+*_cleaned*.csv
+*_cleaned*.xlsx
+
+# Client report binaries (contain unpublished thesis material)
+*.docx
+*.xlsx
+
+# Workspace artifacts
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store

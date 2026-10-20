@@ -1,0 +1,17 @@
+section,category,n,pct
+Formal Training,Yes,313,97.5
+Formal Training,No,8,2.5
+Knowledge Source,School/Course,178,55.5
+Knowledge Source,Health worker/Clinic,92,28.7
+Knowledge Source,"Media (radio, TV, internet)",36,11.2
+Knowledge Source,Family/Friends,12,3.7
+Knowledge Source,,3,0.9
+Ever Diagnosed,Yes,320,99.7
+Ever Diagnosed,No,1,0.3
+ITN Ownership,Yes,161,50.2
+ITN Ownership,No,160,49.8
+Access to Preventives,Easy,162,50.5
+Access to Preventives,Neutral,76,23.7
+Access to Preventives,Difficult,43,13.4
+Access to Preventives,Very Easy,28,8.7
+Access to Preventives,Very Difficult,12,3.7
